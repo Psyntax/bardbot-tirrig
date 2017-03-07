@@ -1,1 +1,2 @@
-worker: rubot.bat
+worker: runbot.bat
+urgentworker: runbot.sh
