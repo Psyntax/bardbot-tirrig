@@ -1,2 +1,1 @@
-worker: runbot.bat
-urgentworker: runbot.sh
+web: ./runbot.sh
