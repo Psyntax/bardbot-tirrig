@@ -1,1 +1,1 @@
-web: ./runbot.sh
+web: ./run.sh
